@@ -107,7 +107,7 @@ for Placemarker in Placemarkers:
 del cursor
 
 # -------------------------------------------------------------------------------
-# Name: Amrit Dhaliwal
+# Name: KML EXTRACTION USING PYKML
 #
 # Purpose: To parse KML files and pull data inaccessible to ESRI software
 #
