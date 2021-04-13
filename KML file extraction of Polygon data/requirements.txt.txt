@@ -1,0 +1,3 @@
+python == 2.7
+arcpy == ArcGIS 10.6
+pykml == 0.2.0

@@ -111,8 +111,6 @@ del cursor
 #
 # Purpose: To parse KML files and pull data inaccessible to ESRI software
 #
-# Author: Amrit Dhaliwal
-#
 # Created: March, 22, 2021
 #
 # -------------------------------------------------------------------------------
